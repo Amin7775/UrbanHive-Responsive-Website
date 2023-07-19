@@ -24,4 +24,12 @@
         width: 100%;
         margin-bottom: 15px;
     }
+
+    .banner-container{
+        flex-direction: column;
+    }
+
+    .banner-text,.banner-image{
+        width: 100%;
+    }
 }
